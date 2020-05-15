@@ -12,7 +12,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-![demo image]
+![demo image] (./public/demoImage.png?raw=true)
+<br>
+![image] (https://img.icons8.com/doodle/48/000000/user.png)
+
 
 ### `npm test`
 
