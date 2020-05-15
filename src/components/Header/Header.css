@@ -1,0 +1,45 @@
+
+.header-div{
+    width: 50%;
+    background-color:#ffffff;
+    display: flex;
+    margin: 20px;
+    padding: 5px;
+    margin-left: 550px;
+}
+
+.header-image {
+    width: 35px;
+    height: 35px;
+    padding: 10px;
+    border-right: 1px solid;
+}
+
+
+
+
+.header-anchor{
+    text-align: left;
+    padding-top: 15px; 
+    text-align: center;
+    text-indent: -100px;
+    color: black;
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-size: x-large;
+    padding-bottom: 25px;
+    width: 250px;
+    transition: 0.3s ease-in-out;
+}
+
+.header-anchor:hover{
+
+    color: brown;
+    font-size: xx-large;
+}
+
+.header-image-div{
+    height: 20px;
+
+}
+
